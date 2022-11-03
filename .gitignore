@@ -1,2 +1,4 @@
-data.db
 data/
+.cache
+data.db
+data.db-journal
